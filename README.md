@@ -34,7 +34,3 @@
     <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
-
----
-
-✨ _“Transformando ideias em código e código em experiências incríveis.”_
