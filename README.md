@@ -27,10 +27,7 @@
 ## 🌐 Onde me encontrar
 
 <div align="center">
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-batista-570331342/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
