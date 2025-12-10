@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Pedro Lucas Alves Batista !
 
-💻 **Desenvolvedor Full Stack** <br>
+💻 **Desenvolvedor Full Stack**  
 🚀 Atualmente estudando Análise e Desenvolvimento de Sistemas
 
 ---
@@ -11,11 +11,12 @@
   <!-- Linguagens e frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
+
   <!-- Banco de dados -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle PL/SQL" />
-  
+
   <!-- Design e front-end -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
