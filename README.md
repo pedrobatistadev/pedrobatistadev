@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Pedro Lucas Alves Batista !
 
-💻 **Desenvolvedor Full Stack**  
+💻 **Desenvolvedor Backend**  
 🚀 Atualmente estudando **Análise e Desenvolvimento de Sistemas**
 
 ---
